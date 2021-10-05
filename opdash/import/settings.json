@@ -1,0 +1,13 @@
+{
+  "input": "/Users/benjamintaylor/Code/translation-tools/opdash/opdash-translations.xlsx",
+  "columns": "/Users/benjamintaylor/Code/translation-tools/opdash/import/columns.json",
+  "locales": [
+    "en",
+    "es",
+    "fr",
+    "pt",
+    "sv"
+  ],
+  "outputDir": "/Users/benjamintaylor/Code/OperatorView/src/lib/translations/locales/",
+  "suffix": ""
+}

@@ -1,0 +1,10 @@
+{
+    "technical_key":"Technical Key",
+    "locales":{
+        "en":"English",
+        "es":"Spanish",
+        "fr":"French",
+        "pt":"Portuguese",
+        "sv":"Swedish"
+    }
+}
