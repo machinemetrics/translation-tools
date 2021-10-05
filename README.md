@@ -15,7 +15,7 @@ https://jy95.github.io/i18n-tools/
 
 `npx @jy95/i18n-tools export to_xlsx --settings ~/Code/translation-tools/opdash/export/settings.json`
 
-This outputs an excel file in the opdash folder
+This outputs an excel file into `translation-tools/opdash`.
 
 # To Import
 
