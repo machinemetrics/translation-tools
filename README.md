@@ -9,7 +9,7 @@ https://jy95.github.io/i18n-tools/
 
 `npm i -g @jy95/i18n-tools`
 
-2. All settings here in `translation-tools` are require absolute paths. I currently have these hard-coded to the paths on my own file system.  You'll need to comb through them and update to your own paths. If anyone else would like to add support for this to be dynamic, be my guest!
+2. All settings here in `translation-tools` require absolute paths. I currently have these hard-coded to the paths on my own file system.  You'll need to comb through them and update to your own paths. If anyone else would like to add support for this to be dynamic, be my guest!
 
 # To Export
 
